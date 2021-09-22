@@ -1,0 +1,53 @@
+h1{
+  color: white;
+  background-color: #ADD8E6;
+  border: 0px;
+  margin: 0px;
+  margin-top: 10px;
+  padding: 10px;
+}
+#makeitblue{
+  background-color: #ADD8E6;
+  border: 0px;
+  margin: 0px;
+  padding: 10px;
+  padding-bottom: 0px;
+}
+a{
+  color: green;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
+h2{
+  color: blue;
+}
+span{
+  color: orange;
+}
+
+h3{
+  color: black;
+  background-color: yellow;
+}
+
+#specialid {
+  color: red;
+}
+
+h4{
+  color: yellow;
+  background-color: green;
+}
+
+.specialp{
+  color: black;
+  background-color: #90ee90;
+}
+
+h5{
+    color: purple;
+}
